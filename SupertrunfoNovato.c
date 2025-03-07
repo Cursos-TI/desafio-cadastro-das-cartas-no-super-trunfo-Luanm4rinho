@@ -6,7 +6,7 @@ int main(){
     char codigo[03];
     char nome[20];
     int populacao;
-    float
+  
 
     printf("Digite o estado: \n");
     scanf("%c", &estado);
